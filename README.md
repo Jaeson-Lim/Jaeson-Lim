@@ -7,5 +7,4 @@ Konkuk University - Department of FoodMarketing & Safety and Applied Statistics
 
 
 Languages and Tools:
-![image](https://github.com/user-attachments/assets/6743c230-59b3-42e6-8bdb-6ab21784f1cc)
 
