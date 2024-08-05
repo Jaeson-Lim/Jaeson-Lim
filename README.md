@@ -1,6 +1,8 @@
 ## Hi there 👋 My name is JaeSung Lim
 
 Education & Experience
+
+
 Konkuk University - Department of FoodMarketing & Safety and Applied Statistics 
 
 
