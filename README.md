@@ -1,4 +1,4 @@
-## Hi there 👋 My name is JaeSung Lim
+![python](https://github.com/user-attachments/assets/b648e2cd-5b08-4196-8079-c6f0a932d1ee)## Hi there 👋 My name is JaeSung Lim
 
 Education & Experience
 
@@ -15,3 +15,4 @@ Konkuk University - Department of FoodMarketing & Safety and Applied Statistics
 
 Languages and Tools:
 
+![R](https://github.com/user-attachments/assets/5c111bbe-c0d6-40ea-9efd-9d5b14f98d8a)
