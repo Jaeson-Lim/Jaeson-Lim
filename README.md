@@ -1,7 +1,11 @@
-## Hi there 👋
+## Hi there 👋 My name is JaeSung Lim
+Konkuk University - Department of FoodMarketing & Safety and Applied Statistics 
+건국대학교 데이터사이언스 소모임 'KUGGLE' 10기
 
-<!--
-**Jaeson-Lim/Jaeson-Lim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+
+
 
 Here are some ideas to get you started:
 
