@@ -1,4 +1,4 @@
-![python](https://github.com/user-attachments/assets/b648e2cd-5b08-4196-8079-c6f0a932d1ee)## Hi there 👋 My name is JaeSung Lim
+My name is JaeSung Lim
 
 Education & Experience
 
