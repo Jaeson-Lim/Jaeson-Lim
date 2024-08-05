@@ -1,6 +1,4 @@
-My name is JaeSung Lim
-
-Education & Experience
+### **Education & Experience:**
 
 
 Konkuk University - Department of FoodMarketing & Safety and Applied Statistics 
@@ -13,7 +11,7 @@ Konkuk University - Department of FoodMarketing & Safety and Applied Statistics
 
 
 
-Languages and Tools:
+### **Languages and Tools:**
 
 ![R](https://github.com/user-attachments/assets/5c111bbe-c0d6-40ea-9efd-9d5b14f98d8a)
 ![python](https://github.com/user-attachments/assets/cf7b9e7a-7e36-46d4-9ecb-adc5073c4212)
