@@ -1,7 +1,7 @@
 ### **Education & Experience:**
 
 
-Konkuk University -  Safety and Applied Statistics & Department of FoodMarketing 
+Konkuk University - Applied Statistics & Department of FoodMarketing and Safety
 
 
 건국대학교 데이터사이언스 소모임 'KUGGLE' 10기
